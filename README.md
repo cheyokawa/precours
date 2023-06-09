@@ -1,2 +1,2 @@
-# precours
-este es un repositorio de prueba
+este proyecto es una prueba de crear un repositorio de prueba
+
